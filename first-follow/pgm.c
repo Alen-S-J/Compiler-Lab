@@ -21,7 +21,7 @@ int main()
     do
     {
         m = 0;
-        printf("Enter the elemets whose fisrt & follow is to be found:");
+        printf("Enter the elements whose first & follow is to be found:");
         scanf("%c", &c);
         first(c);
         printf("First(%c)={", c);
